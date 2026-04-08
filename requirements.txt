@@ -1,0 +1,12 @@
+langchain
+sentence-transformers
+streamlit
+faiss-cpu
+pypdf
+tiktoken
+pandas
+unstructured
+langchain_text_splitter
+glob
+os
+torchvision
